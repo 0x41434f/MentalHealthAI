@@ -17,6 +17,18 @@ I believe that grounding certain psychological constructs or ideas in brain acti
 - Build precision psychiatry tools for diagnosis, prognosis, and therapeutic treatment prediction for psychiatric and neurologic disorders.
 - Apply advanced statistical, artificial intelligence, and machine learning techniques to large Electronic Health Records (EHR), demographic, admission, drug prescription, and claims datasets of patients with mental disorders in my home country, ethically.
 
+## My Research Focus
+My work as a mental health worker has shown me just how much data we gather every single day. For each person I support, we track daily activities like eating and showering, vitals like temperature, and detailed behavioral notes. Seeing this wealth of information firsthand has made me curious about how we can use it more effectively. My research ideas are born from this experience.
+
+### Using Everyday Tech to Understand Behavior
+Right now, we rely on asking people how they feel or what they did. This can be subjective and sometimes unreliable. My goal is to build a system that uses simple, everyday sensors to automatically and objectively note a person's daily activities and routines. This tool could help healthcare professionals by spotting small changes in behavior that might be early signs of anxiety or depression. The idea is to provide support before the problems get bigger.
+
+### Creating a Fuller Picture of Brain Health
+The brain is complex, and looking at one type of data, like an MRI scan, only tells part of the story. I plan to combine different kinds of health information to create a more complete view. This includes biological data like genetics, physical data from brain scans, psychological notes on mood, and even environmental information. By connecting these dots, I hope to build a model that gives a clearer picture of brain health and helps create more personalized treatments.
+
+### Developing an AI Assistant for Healthcare Teams
+I've seen how busy healthcare teams can be, which can lead to early signs of mental health struggles being missed. My aim is to create an AI tool that acts as a helpful assistant for these professionals. It would help by reviewing different data sources and flagging individuals who might be showing early signs of depression or anxiety. This tool would not replace a clinician's expertise, but would help them focus their valuable time and skills where they are most needed.
+
 ## Inspiration
 - **ClearStrand-ASD** - The first and only objective laboratory test that can help health care providers rule out autism in children under 4 years (48 months) of age, using a strand of hair.
 - **Eko Health** - Catches early signs of heart and lung disease during routine in-person and virtual physical exams through a digital stethoscope.
