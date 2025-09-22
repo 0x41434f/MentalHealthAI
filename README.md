@@ -36,7 +36,7 @@ I've seen how busy healthcare teams can be, which can lead to early signs of men
 - 
 
 ## Proof of Project
-- Build LLM and multimodal foundation models that transform large Electronic Health Records (EHR), demographic, admission, drug prescription, and claims datasets of patients with mental disorders into meaningful insights at the point of care (~2 years).
+- Build LLM and multimodal foundation models that transform large Electronic Health Records (EHR), demographic, admission, drug prescription, laboratory tests, clinical, behavioral and cognitive assessments, surveys, and claims datasets of patients with mental disorders into meaningful insights at the point of care (~2 years).
 - Publish papers in JAMA, Nature, and MICCAI.
 - Build multiple FDA-approved psychiatric devices for psychiatric care.
 
