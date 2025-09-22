@@ -30,8 +30,10 @@ The brain is complex, and looking at one type of data, like an MRI scan, only te
 I've seen how busy healthcare teams can be, which can lead to early signs of mental health struggles being missed. My aim is to create an AI tool that acts as a helpful assistant for these professionals. It would help by reviewing different data sources and flagging individuals who might be showing early signs of depression or anxiety. This tool would not replace a clinician's expertise, but would help them focus their valuable time and skills where they are most needed.
 
 ## Inspiration
-- **ClearStrand-ASD** - The first and only objective laboratory test that can help health care providers rule out autism in children under 4 years (48 months) of age, using a strand of hair.
-- **Eko Health** - Catches early signs of heart and lung disease during routine in-person and virtual physical exams through a digital stethoscope.
+- **[ClearStrand-ASD](https://www.clearstrandasd.com/)** - The first and only objective laboratory test that can help health care providers rule out autism in children under 4 years (48 months) of age, using a strand of hair.
+- **[Eko Health](https://www.ekohealth.com/)** - Catches early signs of heart and lung disease during routine in-person and virtual physical exams through a digital stethoscope.
+- **[OnMed](https://www.onmed.com/)** -  A small Clinic-in-a-Box bringing healthcare access anywhere with an outlet to plug it in.
+- 
 
 ## Proof of Project
 - Build LLM and multimodal foundation models that transform large Electronic Health Records (EHR), demographic, admission, drug prescription, and claims datasets of patients with mental disorders into meaningful insights at the point of care (~2 years).
