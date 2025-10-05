@@ -1,5 +1,5 @@
 # Project Jatoria
-A roadmap to improve the understanding, prediction, and treatment of psychiatric illnesses.
+A roadmap to improve my understanding, prediction, and treatment of psychiatric illnesses.
 
 ## The Problem
 Psychiatry is one of the few medical specialties that relies on the patient’s subjective reports and clinician observation alone, with little to no objective data to aid the subjective analysis. Linking brain mechanisms to behavior using algorithms, behavioral testing, and neuroimaging could arm clinicians with vital data to understand causes and to improve diagnosis, resulting in more personalized and effective treatment plans.
@@ -33,7 +33,8 @@ I've seen how busy healthcare teams can be, which can lead to early signs of men
 - **[ClearStrand-ASD](https://www.clearstrandasd.com/)** - The first and only objective laboratory test that can help health care providers rule out autism in children under 4 years (48 months) of age, using a strand of hair.
 - **[Eko Health](https://www.ekohealth.com/)** - Catches early signs of heart and lung disease during routine in-person and virtual physical exams through a digital stethoscope.
 - **[OnMed](https://www.onmed.com/)** -  A small Clinic-in-a-Box bringing healthcare access anywhere with an outlet to plug it in.
-- 
+- **[LUMIPULSE G PTAU217/ß-AMYLOID 1-42 PLASMA RATIO](https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease)** - An in vitro diagnostic test used to identify patients with amyloid pathology associated with Alzheimer’s Disease who have signs and symptoms of cognitive decline.
+- **[AirSight](https://artisight.com/)** -  smart hospital platform
 
 ## Proof of Project
 - Build LLM and multimodal foundation models that transform large Electronic Health Records (EHR), demographic, admission, drug prescription, laboratory tests, clinical, behavioral and cognitive assessments, surveys, and claims datasets of patients with mental disorders into meaningful insights at the point of care (~2 years).
