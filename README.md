@@ -39,7 +39,7 @@ I've seen how busy healthcare teams can be, which can lead to early signs of men
 ## Proof of Project
 - Build LLM and multimodal foundation models that transform large Electronic Health Records (EHR), demographic, admission, drug prescription, laboratory tests, clinical, behavioral and cognitive assessments, surveys, and claims datasets of patients with mental disorders into meaningful insights at the point of care (~2 years).
 - Publish papers in JAMA, Nature, and MICCAI.
-- Build multiple FDA-approved psychiatric devices for psychiatric care.
+- Build multiple FDA-approved psychiatric devices ([combination products](https://www.fda.gov/combination-products/about-combination-products)) for psychiatric care, leveraging both the [Breakthrough Devices Program](https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program#s1) and the [Safer Technologies Program (STeP)](https://www.fda.gov/medical-devices/how-study-and-market-your-device/safer-technologies-program-step-medical-devices#what).
 
 ## Current Skills
 - Extremely proficient in coding in Python and C++.
