@@ -55,6 +55,24 @@ I've seen how busy healthcare teams can be, which can lead to early signs of men
 - Learn the Geometry Scattering Trajectory Homology (GSTH) for Neuroimaging Data framework.
 - Learn how to do medical image analysis.
 
+## My Progress & Roadmap
+This section tracks my journey as I acquire the clinical and academic experience necessary to achieve the goals of Project Jatoria.
+
+### Clinical & Professional Development
+- **Certified Nursing Program:** Completed.
+- **Direct Support Professional (DSP) Program:** Completed.
+- **Work Experience:**
+  - Adult Residential Facility (DSP)
+  - Mental Health Worker (Current) in an Acute Psychiatric Hospital
+- **Next Goal:** Psychiatric Technician Certificate & License.
+  - *Note: The admission cycle for Spring 2026 has passed; this is a longer-term goal.*
+- **Future Academic Goals:**
+  - **2027:** Pursue a Master's in Nursing.
+  - **2029:** Begin pre-bacc for medical school.
+
+### Leadership & Enrichment
+- **Future Leaders in Psychiatry Program (FLIPP):** I am honored to be accepted into the American Psychiatric Association (APA)'s FLIPP. This one-year program, starting in October, will provide invaluable mentorship, career development, MCAT preparation, and networking opportunities as I continue my journey toward a career in psychiatry.
+
 ## Unique Insight from Working
 - Activities of daily living are the key to most of these problems.
 - 15-minute, 1:1, etc., can be replaced with remote monitoring and probably reduce potential crises.
