@@ -44,7 +44,7 @@ I've seen how busy healthcare teams can be, which can lead to early signs of men
 ## Current Skills
 - Extremely proficient in coding in Python and C++.
 - Knowledgeable about PyTorch and TensorFlow.
-- Clinical support experience in Intellectual Disability and Psychiatric Units in an acute hospital.
+- Clinical support experience in an acute hospital, including work across psychiatric ICU and specialized units for developmental disabilities and mental illness (DDMI).
 - Familiarity with mental health data types and psychiatric assessment tools (DSM-5).
 - Very good at writing, conducting research, and reading research papers.
 - Very good at building LLM applications, but GPU-poor, so I can't pre-train a powerful model from scratch but can use a base model from Google and Microsoft.
@@ -75,4 +75,5 @@ This section tracks my journey as I acquire the clinical and academic experience
 
 ## Unique Insight from Working
 - Activities of daily living are the key to most of these problems.
+- My experience in the DDMI (Developmental Disabilities and Mental Illness) unit confirms that effective care requires integrated mental and behavioral observation, directly connecting my past DSP skills with my current clinical work.
 - 15-minute, 1:1, etc., can be replaced with remote monitoring and probably reduce potential crises.
