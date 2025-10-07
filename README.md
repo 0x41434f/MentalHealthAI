@@ -9,16 +9,16 @@ The statistics and assumptions underlying much of psychiatry are poor. Experimen
 I believe that grounding certain psychological constructs or ideas in brain activity can instill more confidence than just observing behaviors and drawing conclusions that likely have reproducibility issues. The merging of psychology and brain sciences is the future, given that people are a lot more dynamic than an equation or model can account for. Frankly, psychology and neuroscience, while complementary, still have a long way to go in terms of describing behavior with full confidence.
 
 ## Goals
-- Become extremely familiar with mental disorders by studying the DSM-5.
-- Become extremely familiar with the biology of the brain and learn how to read neuroimaging datasets (EEG, fNIRS, and fMRI).
-- Better understand brain structural and functional behavior by finding the molecular causes of psychiatric illnesses and mental disorders.
-- Acquire multimodal datasets for mental disorders.
-- Use artificial intelligence (AI) and machine learning (ML) algorithms for the identification of clinical, cognitive, and biological markers in mental health conditions.
-- Build precision psychiatry tools for diagnosis, prognosis, and therapeutic treatment prediction for psychiatric and neurologic disorders.
-- Apply advanced statistical, artificial intelligence, and machine learning techniques to large Electronic Health Records (EHR), demographic, admission, drug prescription, and claims datasets of patients with mental disorders in my home country, ethically.
+The goal of Project Jatoria is to build tools for the future of psychiatry by combining the best of traditional care with new technologies. My work will focus on the following areas:
+
+- **Find Objective Markers:** Use AI and machine learning to identify reliable biological and behavioral markers for mental health conditions.
+- **Build Modern Tools:** Create data-driven tools to help clinicians with diagnosis, prognosis, and predicting treatment outcomes for psychiatric and neurologic disorders.
+- **Integrate Treatments:** Explore how data can improve a wide range of treatments, from psychotherapy to modern neuromodulation techniques (like TMS and ketamine).
+- **Analyze Health Data Ethically:** Apply advanced statistical and AI techniques to large-scale health records (EHR, prescriptions, etc.) to discover patterns that can improve care, with a strong commitment to ethical guidelines.
+- **Master Necessary Skills:** Continuously deepen my knowledge of neuroscience, data analysis, and medical imaging to support these goals.
 
 ## My Research Focus
-My work as a mental health worker has shown me just how much data we gather every single day. For each person I support, we track daily activities like eating and showering, vitals like temperature, and detailed behavioral notes. Seeing this wealth of information firsthand has made me curious about how we can use it more effectively. My research ideas are born from this experience.
+My work as a mental health worker has shown me just how much data we gather every single day. For each person I support, we track daily activities like eating and showering, vitals like temperature, and detailed behavioral notes. Seeing this wealth of information firsthand has made me curious about how we can use it more effectively. My research ideas are born from this experience and are based on a simple belief: to understand mental health, we must look at the whole person—their biology, their life experiences, and their social environment.
 
 ### Using Everyday Tech to Understand Behavior
 Right now, we rely on asking people how they feel or what they did. This can be subjective and sometimes unreliable. My goal is to build a system that uses simple, everyday sensors to automatically and objectively note a person's daily activities and routines. This tool could help healthcare professionals by spotting small changes in behavior that might be early signs of anxiety or depression. The idea is to provide support before the problems get bigger.
