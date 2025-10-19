@@ -1,4 +1,4 @@
-# Research Agenda: Health Policy & Management
+# Health Policy PhD: Management Concentration Research Plan
 
 ## Introduction
 
@@ -6,48 +6,40 @@ My research interests are situated at the intersection of **healthcare managemen
 
 ---
 
-### 1. Organizational Design and Process Improvement in Healthcare Delivery
+### Area 1: Operations Management and Delivery Process Redesign
 
-This area of focus examines the organizational, managerial, and strategic issues facing healthcare providers. My research will apply principles from operations management and organizational behavior to address critical process failures I have observed directly in the acute psychiatric setting.
+This area applies operations management concepts (like Lean, Six Sigma, and PDSA) to improve the efficiency and quality of psychiatric care, using my computational skills to analyze complex clinical workflows.
 
-**Key Research Questions:**
-
-*   **Transition Planning & Patient Flow:** How can we design and implement efficient transition plans, beginning at intake, to prevent patients from becoming "stuck" in restrictive settings and improve patient flow through the care continuum?
-*   **Therapeutic Environment Design:** What is the measurable impact of redesigning physical hospital environments to be less institutional and more conducive to patient recovery and autonomy?
-*   **Workforce Management & Safety:** What are the most effective managerial strategies and training programs (e.g., function-based assessment, de-escalation) to ensure staff can safely manage acute behavioral crises while adhering to strict regulations on restraint and seclusion?
+*   **A. AI-Driven Optimization of Acute Psychiatric Workflows:** Designing efficient, evidence-based care delivery processes by eliminating administrative burden and staff waste. Researching how Robotic Process Automation (RPA) and LLM models can streamline documentation and generate customized, function-based assessments (FBA) for staff training and intervention plans addresses critical organizational inefficiency.
+*   **B. Improving Throughput and Capacity Management in Crisis Care:** Strategically managing acute inpatient capacity (e.g., WIC 5150/5250 units) to reduce patient "stranding" and improve transitions to less restrictive settings. The research would involve applying predictive analytics to claims and clinical data to forecast optimal discharge readiness, thereby helping hospital administrators redesignate patient areas based on readiness and manage facility capacity more effectively.
+*   **C. Organizational Management for Restraint and Seclusion Elimination:** Implementing and evaluating organizational behavior and quality improvement managerial strategies necessary to eliminate highly restrictive interventions (restraint/seclusion), aligning operations with regulatory standards. Research would evaluate the managerial cost-benefit of investing in enhanced staff training and continuous process monitoring (PDSA cycle) versus the downstream costs of restraint use and poor outcomes.
 
 ---
 
-### 2. Healthcare Quality, Productivity, and Value
+### Area 2: Financial Incentives and Organizational Economics
 
-This pillar focuses on applying competitive strategy and operational efficiency to improve both the quality and value of healthcare. My research will aim to move beyond traditional metrics to redefine what constitutes "value" in healthcare.
+This area focuses on applying organizational economics and payment reform strategy to mental health, addressing the systemic financial flaws identified in the sources.
 
-**Key Research Questions:**
-
-*   **Defining and Measuring Quality:** How can we develop and implement better quality metrics that are patient-centered, equitable, and effectively measure safety, timeliness, and efficacy, particularly in under-resourced settings?
-*   **Reducing Administrative Waste:** What are the specific sources of administrative waste in psychiatric hospitals that contribute most to physician burnout and low productivity, and what Lean management interventions (e.g., Value Stream Mapping) are most effective at eliminating them?
-*   **The ROI of Organizational Health Literacy:** What is the quantifiable return on investment for organizations that invest in improving their "Organizational Health Literacy" to advance health equity and improve community health outcomes?
+*   **D. Redesigning Payment Models for Computational Psychiatric Care:** Creating financially viable Patient-Centered Payment (PCP) models that adequately reimburse providers for delivering high-quality, continuous, technology-enabled mental health care.
+*   **E. Market Impact of Mental Health Price and Transparency Data:** Analyzing whether health plan price transparency efforts improve market competition and influence consumer choice/negotiation for psychiatric services.
+*   **F. Financial Solvency and Resource Allocation in Rural Behavioral Health:** Evaluating the effectiveness and strategic allocation of government funds designed to transform rural delivery systems, specifically focusing on mental health infrastructure and access.
 
 ---
 
-### 3. Financial Incentives, Organizational Economics, and Market Structure
+### Area 3: Technology Adoption and Regulatory Strategy
 
-This research area investigates how financial incentives and market structure drive the behavior of providers and payers. My work will focus on critiquing current payment models and exploring alternatives that better support integrated and high-quality care.
+This area focuses on the development and adoption of new medical technologies and the necessary management of professional health care staffs to utilize them.
 
-**Key Research Questions:**
-
-*   **Patient-Centered Payment Models:** How can we design and implement "Patient-Centered Payment" models that reward the delivery of appropriate, evidence-based care for each individual, rather than penalizing providers who treat higher-need patients?
-*   **Financing Integrated Behavioral Health:** What novel, value-based payment models can be structured to adequately finance and sustain the integration of behavioral health services within primary care settings?
-*   **Market Concentration and Competition:** How does market concentration, as measured by tools like the Herfindahl-Hirschman Index (HHI), impact the cost, quality, and accessibility of mental healthcare in specific regions, and what policy interventions can foster a more competitive environment?
+*   **G. Strategic Adoption and Usability of AI/LLMs in Psychiatry:** Investigating the organizational and human factors (usability) that impact physician adoption of LLMs and decision support tools in acute care.
+*   **H. Regulatory Strategy and Competitive Positioning for Digital Devices:** Analyzing the strategic path (competitive strategy) for building and scaling FDA-approved combination products, assessing how regulatory programs like Breakthrough Devices expedite market entry.
+*   **I. Managing Administrative Waste through AI Policy:** Quantifying the true administrative cost of payer claim complexity (Utilization Management) and studying the effectiveness of technology interventions (e.g., AI/RPA in PA) on the productivity of professional staff.
 
 ---
 
-### 4. Development, Adoption, and Management of New Medical Technologies
+### Area 4: Organizational Structure, Equity, and the Patient-Consumer Role
 
-This pillar leverages my background in computer science to study the strategic implementation and impact of technology in clinical settings. My research will focus on bridging the gap between technological potential and practical, effective implementation.
+This area applies organizational structure and health equity research to the delivery of mental health services, framing the patient's experience as a critical management concern.
 
-**Key Research Questions:**
-
-*   **EHR Usability and ROI:** What are the key "human factors" and workflow integration challenges that lead to low physician satisfaction and poor ROI for Electronic Health Record (EHR) systems, and how can they be redesigned for better clinical utility?
-*   **AI in Clinical Decision Support:** How can we effectively design, validate, and implement AI-driven Clinical Decision Support (CDS) tools that are trusted by clinicians and demonstrably improve diagnostic accuracy and adherence to evidence-based guidelines?
-*   **Policy and Technology Co-evolution:** How must healthcare policy (e.g., licensing, reimbursement, privacy regulations) evolve to support the sustained and equitable use of emerging technologies like telehealth and AI-driven diagnostic tools, ensuring they reduce, rather than exacerbate, health disparities?
+*   **J. Organizational Health Literacy and Management of Complex Regulations:** Assessing and improving organizational health literacy in mental health organizations to enable patients (consumers) to understand complex involuntary commitment laws and treatment plans.
+*   **K. Management of Conservatorship and Unrepresented Patients:** Analyzing the organizational structure and managerial policies hospitals use for making treatment decisions for unrepresented, incapacitated patients who lack a surrogate decision maker, especially in acute psychiatric settings.
+*   **L. Managing Professional Staffing and Training in Behavioral Health:** Studying innovative managerial approaches to address the extreme mental health workforce shortage and improve staff retention and training quality in high-stress acute care environments.
