@@ -1,0 +1,16 @@
+---
+title: Can I speak to my social worker?
+slug: can-i-speak-to-my-social-worker
+description: In a psychiatric hospital, I discovered the true role of social workers. They aren't who you think they are.
+publish_date: 2025-10-19
+---
+
+Before I began working in an acute psychiatric hospital, my understanding of social workers was shaped almost entirely by the news. I saw them as figures who intervened in family crises, often in the tragic context of child welfare. They were the people who, in the public imagination, "take kids away." While I knew their work was important, I saw it as separate from the world of medicine I was entering. I could not have been more wrong.
+
+On my first day on the floor, I was struck by a constant, repeating request from the patients: "Can I speak to my social worker?" It was a refrain I heard every single shift. During one of my first 15-minute rounds, a patient looked at me with a glimmer of hope and asked if I was his social worker. That moment crystallized everything. To the patients, the social worker was not a peripheral figure, but a central lifeline. They were the architects of the future, the one person who could answer the most terrifying question a patient faces: "What happens to me when I leave?"
+
+What I was witnessing was the practical application of a concept I had only understood academically, the Social Determinants of Health (SDOH). A psychiatrist can prescribe the right medication, and a nurse can administer it perfectly, but those interventions can be rendered meaningless if the patient is discharged to homelessness. A therapist can develop a brilliant care plan, but it will fail if the patient has no transportation to get to their follow-up appointments. Health does not exist in a vacuum. It is determined by the stability of our housing, our access to food, our support systems, and our ability to navigate a complex and often unforgiving bureaucracy.
+
+The social workers in my hospital are the masters of this domain. They are essential connectors, system navigators, and fierce advocates who build the bridge between the sterile safety of the hospital and the chaotic reality of the outside world. They secure placements in board and care homes, arrange for conservatorships, connect patients with outpatient services, and ensure a support system is in place. Their work involves managing the very factors that will determine if a patient's recovery can be sustained.
+
+The public stereotype of the social worker is a profound disservice to the profession. In the hospital, no one is "taking anyone away." They are doing the opposite. They are fighting to bring people back to their communities, back to stability, and back to a life of dignity. They are the unsung heroes of healthcare, the experts who quietly and tenaciously address the most foundational aspects of healing. My experience has taught me that without them, the work of the doctors and nurses would be a revolving door, and the promise of recovery would remain just that, a promise.
