@@ -2,7 +2,7 @@
 
 ## 1. The Health Policy Problem
 
-The American mental healthcare system is failing. It is a byzantine web of stakeholders characterized by immense financial, administrative, and regulatory complexity. This system is not only inefficient, costing U.S. employers over $575 billion annually in lost productivity due to poor worker health, but it is also structurally incapable of delivering timely, effective, or equitable care. My frontline experience as a mental health worker in an acute psychiatric hospital has provided a ground-level view of this crisis: a system that defaults to "trial-and-error" treatment, creates immense administrative waste that burns out clinicians, and ultimately fails the complex patients it is meant to serve. This is the critical health policy problem my research will address.
+The American mental healthcare system is failing. It is a byzantine web of stakeholders characterized by immense financial, administrative, and regulatory complexity. This system is not only inefficient, costing U.S. employers over $575 billion annually in lost productivity, but it is also structurally incapable of delivering timely, effective, or equitable care. My frontline experience as a mental health worker in an acute psychiatric hospital has provided a ground-level view of this crisis: a system that defaults to "trial-and-error" treatment, creates immense administrative waste that burns out clinicians, and ultimately fails the complex patients it is meant to serve. This is the critical health policy problem my research will address.
 
 ## 2. The Importance of Solving This Problem
 
@@ -25,25 +25,55 @@ My central hypothesis is that **by creating a computationally-driven management 
 
 ## 6. Detailed Research Plan
 
-My PhD research will be structured as a multi-stage program designed to build and validate this new framework. It is organized into three interconnected workstreams that leverage theories from **operations management, organizational economics, and technology adoption**:
+My PhD research will be structured as a multi-stage program designed to build and validate this new framework. It is organized into interconnected workstreams that leverage theories from **operations management, organizational economics, and technology adoption**.
 
-**Workstream 1: Technology Development & Validation (Project Jatoria)**
-This workstream focuses on the core enabling technology.
-*   **(G) Strategic Adoption and Usability of AI/LLMs in Psychiatry:** Investigating the organizational and human factors that impact physician adoption of LLMs and decision support tools.
-*   **(H) Regulatory Strategy for Digital Devices:** Analyzing the strategic path for building and scaling FDA-approved combination products (computational tools + interventions).
-*   **(I) Managing Administrative Waste through AI Policy:** Quantifying the administrative cost of payer complexity and studying the effectiveness of AI/RPA in automating administrative tasks.
+---
 
-**Workstream 2: Operations Management & Process Improvement**
-This workstream studies the real-world implementation of these tools to improve hospital workflows.
-*   **(A) AI-Driven Optimization of Acute Psychiatric Workflows:** Designing and testing evidence-based care delivery processes that use AI to reduce administrative burden.
-*   **(B) Improving Throughput and Capacity Management:** Applying predictive analytics to clinical data to forecast optimal discharge readiness and improve patient flow.
-*   **(C) Organizational Management for Restraint and Seclusion Elimination:** Evaluating the cost-benefit of investing in enhanced, data-driven staff training to eliminate the use of highly restrictive interventions.
+### Area 1: Operations Management and Delivery Process Redesign
 
-**Workstream 3: Organizational Economics & Payment Model Redesign**
-This workstream designs and tests the novel payment models required to finance this new system of care.
-*   **(D) Redesigning Payment Models for Computational Psychiatric Care:** Creating and simulating financially viable Patient-Centered Payment (PCP) models that reimburse providers for high-quality, technology-enabled care.
-*   **(E) Market Impact of Mental Health Price Transparency:** Analyzing whether price transparency efforts improve market competition for technology-enabled psychiatric services.
-*   **(F) Financing Integrated Behavioral Health:** Designing novel, value-based payment models structured to adequately finance and sustain the integration of behavioral health services within primary care.
+**The Problem:** A 2025 Disability Rights California (DRC) investigation into an acute psychiatric hospital revealed a complete breakdown in operational management. The facility accounted for over 25% of all restraint incidents in the state's vendor system, utilized "boilerplate language" instead of individualized behavioral plans, and failed to provide a therapeutic environment. This demonstrates a critical need for research into the core delivery processes of psychiatric care.
+
+**Key Research Questions:**
+
+*   **(A) AI-Driven Optimization of Acute Psychiatric Workflows:** How can AI and LLM models be used to move beyond "boilerplate" documentation and generate customized, function-based assessments (FBA) for staff training and intervention plans, addressing critical organizational inefficiencies?
+*   **(B) Improving Throughput and Capacity Management in Crisis Care:** How can predictive analytics be applied to clinical and claims data to forecast optimal discharge readiness, helping administrators manage capacity and prevent patients from getting "stuck in a more restrictive setting"?
+*   **(C) Organizational Management for Restraint and Seclusion Elimination:** What is the quantifiable cost-benefit of investing in enhanced, data-driven staff training and de-escalation techniques versus the immense downstream costs (clinical, financial, and legal) of over-reliance on restraint and seclusion?
+
+---
+
+### Area 2: Financial Incentives and Organizational Economics
+
+**The Problem:** A separate DRC investigation found that California invested over $500 million in a jail-based competency restoration program (EASS) that proved to be a "half-measure solution," with a competency restoration rate below 5%. In contrast, community-based programs showed re-incarceration rates of less than 1%. This highlights a profound misalignment of financial incentives and organizational strategy.
+
+**Key Research Questions:**
+
+*   **(D) Redesigning Payment Models for Computational Psychiatric Care:** How can Patient-Centered Payment (PCP) models be designed to adequately reimburse providers for delivering high-quality, continuous, and technology-enabled mental health care, especially for high-need populations?
+*   **(E) Market Impact of Mental Health Price Transparency:** How can data from price transparency mandates be used to analyze the market for behavioral health services and empower payers to negotiate for higher-value care?
+*   **(F) Financial Solvency and Resource Allocation in Rural Behavioral Health:** How can we evaluate the effectiveness of large-scale government investments in rural health to ensure funds are allocated to evidence-based community programs, not ineffective "half-measure" solutions?
+
+---
+
+### Area 3: Technology Adoption and Regulatory Strategy
+
+**The Problem:** The DRC reports illustrate a significant gap between regulatory requirements and on-the-ground practice. Facilities fail to use evidence-based assessment techniques and staff are not adequately trained, indicating a failure in both technology adoption and management of professional staff.
+
+**Key Research Questions:**
+
+*   **(G) Strategic Adoption and Usability of AI/LLMs in Psychiatry:** What are the key organizational and "human factors" (usability) that impact physician and staff adoption of new AI-driven decision support tools in high-stress, acute care environments?
+*   **(H) Regulatory Strategy for Digital Devices:** What is the optimal strategic and regulatory pathway for moving computational tools like Project Jatoria from a research concept to a scalable, FDA-approved "combination product"?
+*   **(I) Managing Administrative Waste through AI Policy:** How can AI and RPA be used to quantify and mitigate the immense administrative burden of payer complexity (e.g., Prior Authorization), freeing up clinical resources and reducing staff burnout?
+
+---
+
+### Area 4: Organizational Structure, Equity, and the Patient-Consumer Role
+
+**The Problem:** The DRC reports reveal a system where patients are disempowered. They are subjected to non-individualized plans, housed in anti-therapeutic environments, and are often unaware of their own transition plans. This points to a fundamental failure in organizational health literacy and patient-centered design.
+
+**Key Research Questions:**
+
+*   **(J) Organizational Health Literacy and Management of Complex Regulations:** How can organizations use technology (e.g., LLMs to simplify complex legal forms) to improve their "Organizational Health Literacy" and ensure patients can understand and participate in their own care, especially concerning complex laws like LPS?
+*   **(K) Management of Conservatorship and Unrepresented Patients:** What are the best-practice organizational structures and managerial policies for making ethical and medically appropriate treatment decisions for unrepresented, incapacitated patients, ensuring equity and avoiding bias?
+*   **(L) Managing the Behavioral Health Workforce Shortage:** What are the most effective managerial strategies and state-level policy interventions to address the critical workforce shortage and improve staff retention and training quality in acute care settings?
 
 ## 7. Evaluation of Research Outcomes
 
