@@ -2,11 +2,11 @@
 
 ## 1. The Health Policy Problem
 
-The American mental healthcare system is failing. It is a byzantine web of stakeholders characterized by immense financial, administrative, and regulatory complexity. This system is not only inefficient, costing U.S. employers over $575 billion annually in lost productivity, but it is also structurally incapable of delivering timely, effective, or equitable care. My frontline experience as a mental health worker in an acute psychiatric hospital has provided a ground-level view of this crisis: a system that defaults to "trial-and-error" treatment, creates immense administrative waste that burns out clinicians, and ultimately fails the complex patients it is meant to serve. This is the critical health policy problem my research will address.
+The American mental healthcare system is failing. It is a byzantine web of stakeholders characterized by immense financial, administrative, and regulatory complexity. This system is not only catastrophically inefficient, with U.S. hospitals spending nearly twice as much on administration ($687B) as on direct patient care ($346B), but it is also structurally incapable of delivering timely, effective, or equitable care. My frontline experience as a mental health worker in an acute psychiatric hospital has provided a ground-level view of this crisis: a system that defaults to "trial-and-error" treatment, creates immense administrative waste that burns out clinicians, and ultimately fails the complex patients it is meant to serve. This is the critical health policy problem my research will address.
 
 ## 2. The Importance of Solving This Problem
 
-The urgency to solve this problem is twofold. First, the human cost is staggering. The current system's inability to provide precise, early interventions leads to preventable suffering, cycles of hospitalization, and tragic outcomes. Second, the system is on a collision course with profound societal instability. The rise of AI and automation will likely lead to increased economic precarity, which will, in turn, ignite a massive surge in demand for mental health services. A system that is already failing will utterly collapse under this future pressure, making the need for a redesigned, more resilient infrastructure a national imperative.
+The urgency to solve this problem is twofold. First, the human cost is staggering. Nearly one in five U.S. adults reports anxiety or depression, yet only 13.4% receive therapy, with the majority citing cost and lack of provider access as primary barriers. Second, the system is on a collision course with profound societal instability. The rise of AI and automation will likely lead to increased economic precarity, which will, in turn, ignite a massive surge in demand for mental health services. A system that is already failing will utterly collapse under this future pressure, making the need for a redesigned, more resilient infrastructure a national imperative.
 
 ## 3. Previous Research & Existing Approaches
 
@@ -31,7 +31,7 @@ My PhD research will be structured as a multi-stage program designed to build an
 
 ### Area 1: Operations Management and Delivery Process Redesign
 
-**The Problem:** A 2025 Disability Rights California (DRC) investigation into an acute psychiatric hospital revealed a complete breakdown in operational management. The facility accounted for over 25% of all restraint incidents in the state's vendor system, utilized "boilerplate language" instead of individualized behavioral plans, and failed to provide a therapeutic environment. This demonstrates a critical need for research into the core delivery processes of psychiatric care.
+**The Problem:** The U.S. has one of the smallest primary care workforces in the OECD, creating immense strain on downstream facilities. This strain manifests as operational failure. A 2025 Disability Rights California (DRC) investigation into an acute psychiatric hospital revealed a facility that accounted for over 25% of all restraint incidents in the state's vendor system, utilized "boilerplate language" instead of individualized behavioral plans, and failed to provide a therapeutic environment. This demonstrates a critical need for research into the core delivery processes of psychiatric care.
 
 **Key Research Questions:**
 
@@ -43,7 +43,7 @@ My PhD research will be structured as a multi-stage program designed to build an
 
 ### Area 2: Financial Incentives and Organizational Economics
 
-**The Problem:** A separate DRC investigation found that California invested over $500 million in a jail-based competency restoration program (EASS) that proved to be a "half-measure solution," with a competency restoration rate below 5%. In contrast, community-based programs showed re-incarceration rates of less than 1%. This highlights a profound misalignment of financial incentives and organizational strategy.
+**The Problem:** The U.S. healthcare market is notoriously inefficient, a fact underscored by the weak correlation (r=0.27) between hospital inpatient occupancy and operating profit margin. This inefficiency is particularly acute in mental health, where a DRC investigation found that California invested over $500 million in a jail-based program (EASS) with a competency restoration rate below 5%, while successful community-based programs showed re-incarceration rates of less than 1%. This highlights a profound misalignment of financial incentives and organizational strategy.
 
 **Key Research Questions:**
 
@@ -55,7 +55,7 @@ My PhD research will be structured as a multi-stage program designed to build an
 
 ### Area 3: Technology Adoption and Regulatory Strategy
 
-**The Problem:** The DRC reports illustrate a significant gap between regulatory requirements and on-the-ground practice. Facilities fail to use evidence-based assessment techniques and staff are not adequately trained, indicating a failure in both technology adoption and management of professional staff.
+**The Problem:** While technology holds promise, its implementation often fails. U.S. hospitals spend more on administration than on patient care, yet most physicians report that EHRs do not improve their workflow. Furthermore, the DRC reports illustrate a significant gap between regulatory requirements and on-the-ground practice, indicating a failure in both technology adoption and the management of professional staff.
 
 **Key Research Questions:**
 
@@ -67,11 +67,11 @@ My PhD research will be structured as a multi-stage program designed to build an
 
 ### Area 4: Organizational Structure, Equity, and the Patient-Consumer Role
 
-**The Problem:** The DRC reports reveal a system where patients are disempowered. They are subjected to non-individualized plans, housed in anti-therapeutic environments, and are often unaware of their own transition plans. This points to a fundamental failure in organizational health literacy and patient-centered design.
+**The Problem:** The U.S. faces a critical shortage of mental health providers, with 63% of adults citing inadequate supply as a barrier to care and 72.7% of counties designated as shortage areas. This scarcity places immense pressure on existing systems, where patients are often disempowered—subjected to non-individualized plans and housed in anti-therapeutic environments, as documented by the DRC. This points to a fundamental failure in organizational design and patient-centeredness.
 
 **Key Research Questions:**
 
-*   **(J) Organizational Health Literacy and Management of Complex Regulations:** How can organizations use technology (e.g., LLMs to simplify complex legal forms) to improve their "Organizational Health Literacy" and ensure patients can understand and participate in their own care, especially concerning complex laws like LPS?
+*   **(J) Organizational Health Literacy and Management of Complex Regulations:** How can organizations use technology (e.g., LLMs to simplify complex legal forms) to improve their "Organizational Health Literacy" and ensure patients can understand and participate in their own care?
 *   **(K) Management of Conservatorship and Unrepresented Patients:** What are the best-practice organizational structures and managerial policies for making ethical and medically appropriate treatment decisions for unrepresented, incapacitated patients, ensuring equity and avoiding bias?
 *   **(L) Managing the Behavioral Health Workforce Shortage:** What are the most effective managerial strategies and state-level policy interventions to address the critical workforce shortage and improve staff retention and training quality in acute care settings?
 
