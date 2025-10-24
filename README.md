@@ -18,6 +18,15 @@ The goal of Project Jatoria is to build tools for the future of psychiatry by co
 - **Analyze Health Data Ethically:** Apply advanced statistical and AI techniques to large-scale health records (EHR, prescriptions, etc.) to discover patterns that can improve care, with a strong commitment to ethical guidelines.
 - **Master Necessary Skills:** Continuously deepen my knowledge of neuroscience, data analysis, and medical imaging to support these goals.
 
+## Context: The Rise of Precision Psychiatry
+Project Jatoria is aligned with a significant and growing movement in the mental health field: **Precision Psychiatry**. This approach seeks to move beyond the current "trial and error" model of treatment by using objective biological and data-driven insights to personalize care. This is not just a theoretical goal; it is actively being built by leading researchers and entrepreneurs.
+
+- **Academic Validation:** At Stanford University, the [Center for Precision Mental Health and Wellness](https://stanmed.stanford.edu/precision-mental-health-promise/), led by Dr. Leanne Williams, is pioneering this effort. Their work uses neuroimaging to identify distinct "biotypes" of depression, which can predict a patient's response to different treatments. This research proves that it is possible to find the objective markers needed to differentiate between conditions with overlapping symptoms.
+
+- **Entrepreneurial Validation:** The commercial world is also recognizing this opportunity. Dr. Amit Etkin, a former Stanford professor, founded [Alto Neuroscience](https://stanforddaily.com/2021/10/31/stanford-professors-startup-redefines-psychiatry-with-biomarkers-artificial-intelligence/), a startup that has raised significant venture capital. He left academia because it was not "agile enough" to support his ambition to build data-driven tools. Alto's mission is to use AI and biomarkers to identify the right patient for the right drug, confirming that there is a strong business case and a critical need for private sector innovation in this space.
+
+These examples show that the core mission of Project Jatoria—to build objective, data-driven tools for mental healthcare—is not just a personal ambition but a key part of the future of psychiatry.
+
 ## My Research Focus
 My experience, first as a Direct Support Professional (DSP) and now as a Mental Health Worker, has shown me just how much data we gather every single day. For each person I've supported, we tracked daily activities, vitals like temperature, and detailed behavioral notes.
 
